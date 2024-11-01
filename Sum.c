@@ -2,7 +2,7 @@
 //#include<conio.h>
 int main()
 {
-    int a,b,c,d,e,f,w;
+    int a,b,c,d,e,f;
     float sum;
     printf("enter any number a ");
     scanf("%d",&a);
@@ -19,7 +19,5 @@ int main()
     printf(" The value of a/b  is : %d \n",e);
     printf(" The value of c/d is : %d \n",f);
     printf(" The sum of div of a/b and c/d is : %f\n",sum);
-    printf("Enter your name:");
-scanf("%d",&w);
 return 0;
 } 
